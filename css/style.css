@@ -1,0 +1,934 @@
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+.bg-img {
+/* The image used */
+background-image: url("../photo/dskbg.png");
+
+min-height: 500px;
+
+/* Center and scale the image nicely */
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+/* Needed to position the navbar */
+position: relative;
+}
+
+/* Position the navbar container inside the image */
+.container {
+position: absolute;
+margin: 20px;
+width: auto;
+margin-left: 800px;
+}
+
+/* The navbar */
+.topnav {
+overflow: hidden;
+}
+
+/* Navbar links */
+.topnav a {
+float: right;
+color: black;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+}
+
+.topnav a:hover {
+color: black;
+}
+
+.txt{
+text-align: center;
+font-weight: bold;
+margin-top: 100px;
+margin-left: -70px;
+}
+
+.card1{
+
+margin-left: 550px;
+margin-top: -190px;
+}
+
+.card2{
+margin-left: 1000px;
+margin-top: -177px;
+}
+
+.card4{
+
+}
+
+.footer{
+background: #152F4F;
+color:white;
+
+.links{
+ul {list-style-type: none;}
+li a{
+color: white;
+transition: color .2s;
+&:hover{
+text-decoration:none;
+color:#4180CB;
+}
+}
+}  
+.about-company{
+i{font-size: 25px;}
+a{
+color:white;
+transition: color .2s;
+&:hover{color:#4180CB}
+}
+} 
+.location{
+i{font-size: 18px;}
+}
+.copyright p{border-top:1px solid rgba(255,255,255,.1);} 
+}
+
+
+.page-footer.font-small.blue{
+background-color: grey;
+height: 250px
+
+}
+
+#About_Us______Construction____ {
+position: absolute;
+left: 0px;
+top: 0px;
+overflow: visible;
+width: 653px;
+white-space: nowrap;
+line-height: 39px;
+margin-top: -11.5px;
+text-align: center;
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+color: rgba(74,74,74,1);
+background-color: grey;
+}
+
+#Ales_Construction_Ltd_began_it {
+position: absolute;
+left: 50px;
+top: 1200.604px;
+overflow: hidden;
+width: 591.389px;
+height: 378.564px;
+line-height: 26px;
+margin-top: -6px;
+text-align: left;
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+color: rgba(145,145,145,1);
+}
+
+
+#Ales_Construction_Ltd_began_ita{
+position: absolute;
+left: 700px;
+top: 1600.604px;
+overflow: hidden;
+width: 591.389px;
+height: 378.564px;
+line-height: 26px;
+margin-top: -6px;
+text-align: left;
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+color: rgba(145,145,145,1);
+
+}
+
+
+
+
+#ABOUT_US_ {
+position: absolute;
+left: 50px;
+top: 1000.377px;
+overflow: visible;
+width: 297px;
+white-space: nowrap;
+line-height: 79px;
+margin-top: 70px;
+text-align: left;
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 59px;
+color: rgba(83,83,83,1);
+
+}
+
+
+
+.card{
+margin-top: -600px;
+}
+
+.card-img-top{
+margin-top: -600px;
+
+}
+
+
+
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+float: left;
+width: 33.33%;
+padding:5px;
+margin-top:1050px;
+padding-right: 30px
+}
+
+/* Clear floats after image containers */
+.row::after {
+content: "";
+clear: both;
+display: table;
+}
+
+.img1{
+margin-left: 50px;
+
+width: 350px;
+height: 450px;
+}
+
+.img2{
+margin-left: 250px;
+width: 350px;
+height: 450px;
+
+
+}
+.img3{
+margin-left: 450px;
+width: 350px;
+height: 450px;
+}
+
+
+.recent{
+
+}
+
+#THE_GREEN_NEST {
+opacity: 0.805;
+position: absolute;
+left: 60px;
+overflow: visible;
+width: 159px;
+white-space: nowrap;
+line-height: 47px;
+margin-top: 40px;
+text-align: left;
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+color: rgba(23,23,23,1);
+}
+
+
+
+#THE__NAMAZGJA__MOSQUE {
+opacity: 0.805;
+position: absolute;
+left: 450px;
+overflow: visible;
+width: 262px;
+white-space: nowrap;
+line-height: 47px;
+margin-top: 40px;
+text-align: left;
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+color: rgba(23,23,23,1);
+}
+#EPOKA_UNIVERSITY {
+opacity: 0.805;
+position: absolute;
+left: 850px;
+overflow: visible;
+width: 182px;
+white-space: nowrap;
+line-height: 47px;
+margin-top: 40px;
+text-align: left;
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+color: rgba(23,23,23,1);
+}
+
+
+
+div#Lorem_ipsum_dolor_sit_amet__co{
+
+
+
+}
+
+
+.Lorem_ipsum_dolor_sit_amet__co_bc{
+
+
+}
+
+.Lorem_ipsum_dolor_sit_amet__co_bd{
+
+}
+
+#Lorem_ipsum_dolor_sit_amet__co {
+opacity: 0.805;
+position: absolute;
+left: 60px;
+top: 2450.175px;
+overflow: visible;
+width: 368.988px;
+height: 122.663px;
+line-height: 24px;
+margin-top: 100px;
+text-align: left;
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+color: rgba(94,94,94,1);
+}
+#Lorem_ipsum_dolor_sit_amet__co_bc {
+opacity: 0.805;
+position: absolute;
+left: 450px;
+top: 2450.175px;
+overflow: visible;
+width: 368.988px;
+height: 122.663px;
+line-height: 24px;
+margin-top: 100px;
+text-align: left;
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+color: rgba(94,94,94,1);
+}
+#Lorem_ipsum_dolor_sit_amet__co_bd {
+opacity: 0.805;
+position: absolute;
+left: 850px;
+top: 2450.175px;
+overflow: visible;
+width: 368.988px;
+height: 122.663px;
+line-height: 24px;
+margin-top: 100px;
+text-align: left;
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+color: rgba(94,94,94,1);
+}
+
+#PARTNERS {
+position: absolute;
+left: 899.635px;
+top: 3546.869px;
+overflow: visible;
+width: 92px;
+white-space: nowrap;
+line-height: 89px;
+margin-top: -35.5px;
+text-align: left;
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+color: rgba(83,83,83,1);
+}
+
+
+
+div#portfolio.container-fluid.text-center.bg-grey{
+margin-top: 200px
+}
+
+
+div.thumbnail1{
+margin-left: 30px
+}
+
+img.im1{
+margin-left: 50px;
+}
+
+img.im2{
+margin-left: 50px;
+}
+img.im3{
+margin-left: 50px;
+}
+
+
+div#portfolio.container-fluid.text-center.bg-grey{
+
+background-color: #F5F5F5;
+height: 150px;
+}
+
+.topnav1 a{
+
+
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+
+
+}
+
+div.topnav1{
+margin-left: -350px;
+margin-top: 120px;
+}
+
+
+button.w3-button.w3-deep-orange{
+background-color: orange;
+
+}
+
+
+
+#Ales_Construction_Ltd_began_it1 {
+position: absolute;
+left: 50px;
+top: 450px;
+overflow: hidden;
+width: 591.389px;
+height: 378.564px;
+line-height: 26px;
+margin-top: -6px;
+text-align: left;
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+color: rgba(145,145,145,1);
+}
+
+span.ab{
+margin-top: 50px;
+}
+
+#ABOUT_US_1 {
+position: absolute;
+left: 50px;
+top: 230px;
+overflow: visible;
+width: 297px;
+white-space: nowrap;
+line-height: 79px;
+margin-top: 70px;
+text-align: left;
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 59px;
+color: rgba(83,83,83,1);
+
+}
+
+
+img#james_sullivan_ESZRBtkQ_f8_uns1{
+
+height: 700px;
+width: 500px;
+margin-right: 100px;
+margin-top: 100px;
+}
+
+
+img#james_sullivan_ESZRBtkQ_f8_uns2{
+margin-left: 60px;
+}
+
+
+div#The_target_clients_of_our_comp1{
+
+margin-left: 600px
+}
+
+div#Ales_Construction_Ltd_began_it3{
+
+position: absolute;
+left: 700px;
+top: 1350.604px;
+overflow: hidden;
+width: 591.389px;
+height: 378.564px;
+line-height: 26px;
+margin-top: -6px;
+text-align: left;
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+color: rgba(145,145,145,1);
+
+}
+
+
+.ab2
+
+{
+
+
+position: absolute; left: 700px; overflow: visible; width: 297px; white-space: nowrap; line-height: 29px; margin-top:
+50px; text-align: left; font-family: Poppins; font-style: normal; font-weight: bold; font-size: 20px; color: rgba(83,83,83,1); }
+
+
+
+div.do{ 
+background-color: #F5F5F5;
+margin-bottom: 150px;
+margin-top: 50px; 
+height: 400px;
+}
+
+div.card-body1{
+margin-top: 60px
+}
+
+h5.card-title1{
+
+
+
+overflow: visible; width: 297px; white-space: nowrap; line-height: 29px;
+text-align: left; font-family: Poppins; font-style: normal; font-weight: bold; font-size: 20px; color: rgba(83,83,83,1);
+}
+
+
+img#james_sullivan_ESZRBtkQ_f8_uns3{
+background-color:
+}
+
+
+/*
+img.img5{
+margin-top: -3600px;
+margin-left:750px;
+
+
+
+}
+
+
+img.img6{
+margin-top: -3600px;
+margin-left:800px;
+
+
+}
+
+
+div.row.text-center.slideanime{
+margin-top:-120px;
+margin-bottom: -1500px
+}
+
+
+div.thumbnail2{
+margin-top: -1500px
+}
+
+*/
+
+img.img5{
+
+margin-top: 100px;
+}
+
+
+img.img6{
+
+
+margin-top: 100px;
+background:rgba(1,1,1,0.5);
+
+
+margin-left: 50px
+
+}
+
+div.thumbnail2{
+margin-top: 100px;
+margin-bottom: 70px
+
+}
+
+
+div.photo{
+background-color: ;
+}
+
+
+
+.bg-img1 {
+/* The image used */
+background-image: url("../photo/Capture1.png");
+min-height: 480px;
+/* Center and scale the image nicely */
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+/* Needed to position the navbar */
+position: relative;
+margin-top: 60px;
+}
+
+
+.container1 {
+position: absolute;
+margin: 20px;
+width: auto;
+margin-left: 800px;
+}
+
+
+
+.topnav2 {
+overflow: hidden;
+margin-top: -70px;
+
+}
+
+/* Navbar links */
+.topnav2 a {
+float: right;
+color: black;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+
+}
+
+.topnav2 a:hover {
+color: black;
+}
+
+img.img7{
+
+margin-left: 800px;
+margin-top: 70px;
+}
+
+
+#The_New_Complex_will_be_Albani {
+position: absolute;
+left: 353.625px;
+top: 1003.604px;
+overflow: visible;
+width: 541.389px;
+height: 631.564px;
+line-height: 26px;
+margin-top: -6px;
+text-align: left;
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+color: rgba(145,145,145,1);
+}
+#Project_Description {
+position: absolute;
+left: 353.625px;
+top: 951.604px;
+overflow: visible;
+width: 541.389px;
+height: 28.564px;
+line-height: 26px;
+margin-top: -4px;
+text-align: left;
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+color: rgba(145,145,145,1);
+}
+.Line_8 {
+overflow: visible;
+position: absolute;
+width: 615px;
+height: 1px;
+left: 317.5px;
+top: 905.5px;
+transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_37 {
+position: absolute;
+overflow: visible;
+width: 623px;
+height: 299px;
+left: 317px;
+top: 606px;
+}
+#_THE_TOWER_OF_THE_NEW__QEMAL_S {
+position: absolute;
+left: 353.625px;
+top: 599.377px;
+overflow: visible;
+width: 508px;
+white-space: nowrap;
+line-height: 40px;
+margin-top: -7.5px;
+text-align: left;
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+color: rgba(110,110,110,1);
+}
+#Main_Contractor_______________ {
+position: absolute;
+left: 353.625px;
+top: 756.377px;
+overflow: visible;
+width: 225px;
+white-space: nowrap;
+line-height: 40px;
+margin-top: -11px;
+text-align: left;
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+color: rgba(110,110,110,1);
+}
+#ALBSTAR_Arhcea__Italy_Tirana__ {
+position: absolute;
+left: 607px;
+top: 757px;
+overflow: visible;
+width: 242px;
+height: 117px;
+line-height: 40px;
+margin-top: -11px;
+text-align: left;
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+color: rgba(110,110,110,1);
+}
+
+
+img.thecard{
+
+margin-top: -250px;
+margin-left: 230px;
+
+
+
+
+}
+
+
+.imgg10{
+margin-left: -10
+}
+
+
+.icn{
+
+margin-left: -360px;
+}
+
+
+
+.logo{
+margin-left: 615px;
+margin-top: 40px;
+}
+
+
+div.dot{
+margin-left: 110px;
+
+line-height: 79px;
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 29px;
+color: rgba(83,83,83,1);
+
+
+}
+
+.card-link{
+color: black;
+font-weight: bold;
+
+
+}
+
+img.gol{
+margin-left: 125px;
+
+margin-bottom:-95px;
+
+}
+
+img.gol1{
+margin-left:515px;
+margin-bottom:-95px;
+
+}
+
+img.gol2{
+margin-left: 1120px;
+}
+
+h5.card-title{
+text-align: center
+}
+
+a.card-link{
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+/* Styles */
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width : 321px) {
+/* Styles */
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 320px) {
+/* Styles */
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+/* Styles */
+}
+
+/* iPads (landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+/* Styles */
+}
+
+/* iPads (portrait) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+/* Styles */
+}
+/**********
+iPad 3
+**********/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
+/* Styles */
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
+/* Styles */
+}
+/* Desktops and laptops ----------- */
+@media only screen  and (min-width : 1224px) {
+/* Styles */
+}
+
+/* Large screens ----------- */
+@media only screen  and (min-width : 1824px) {
+/* Styles */
+}
+
+/* iPhone 4 ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
+/* Styles */
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
+/* Styles */
+}
+
+/* iPhone 5 ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+/* iPhone 6 ----------- */
+@media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+/* iPhone 6+ ----------- */
+@media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+/* Samsung Galaxy S3 ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+/* Samsung Galaxy S4 ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+
+/* Samsung Galaxy S5 ----------- */
+@media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
