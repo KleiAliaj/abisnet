@@ -1,0 +1,482 @@
+body {font-family: Arial, Helvetica, sans-serif;} * {box-sizing: border-box;} .bg-img { /* The image used */ background-image: url("../photo/cover.png"); min-height: 480px; /* Center and scale the image nicely */ background-position: center; background-repeat: no-repeat; background-size: cover; /* Needed to position the navbar */ position: relative; } /* Position the navbar container inside the image */ .container { position: absolute; margin: 20px; width: auto; margin-left: 800px; } /* The navbar */ .topnav { overflow: hidden; } /* Navbar links */ .topnav a { float: right; color: black; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 17px; } .topnav a:hover { color: black; } .txt{ text-align: center; font-weight: bold; margin-top: 100px; margin-left: -70px; } .card1{ margin-left: 550px; margin-top: -200px; } .card2{ margin-left: 1000px; margin-top: -210px; } .footer{ background: #152F4F; color:white; .links{ ul {list-style-type: none;} li a{ color: white; transition: color .2s; &:hover{ text-decoration:none; color:#4180CB; } } } .about-company{ i{font-size: 25px;} a{ color:white; transition: color .2s; &:hover{color:#4180CB} } } .location{ i{font-size: 18px;} } .copyright p{border-top:1px solid rgba(255,255,255,.1);} } .page-footer.font-small.blue{ background-color: grey; height: 300px } #About_Us______Construction____ { position: absolute; left: 0px; top: 0px; overflow: visible; width: 653px; white-space: nowrap; line-height: 39px; margin-top: -11.5px; text-align: center; font-family: Poppins; font-style: normal; font-weight: normal; font-size: 16px; color: rgba(74,74,74,1); background-color: grey; } #Ales_Construction_Ltd_began_it { position: absolute; left: 50px; top: 1200.604px; overflow: hidden; width: 591.389px; height: 378.564px; line-height: 26px; margin-top: -6px; text-align: left; font-family: Poppins; font-style: normal; font-weight: normal; font-size: 14px; color: rgba(145,145,145,1); } #ABOUT_US_ { position: absolute; left: 50px; top: 1000.377px; overflow: visible; width: 297px; white-space: nowrap; line-height: 79px; margin-top: 70px; text-align: left; font-family: Poppins; font-style: normal; font-weight: bold; font-size: 59px; color: rgba(83,83,83,1); } .card{ margin-top: -600px; } .card-img-top{ margin-top: -600px; } /* Three image containers (use 25% for four, and 50% for two, etc) */ .column { float: left; width: 33.33%; padding:5px; margin-top:1050px; padding-right: 30px } /* Clear floats after image containers */ .row::after { content: ""; clear: both; display: table; } .img1{ margin-left: 50px; width: 350px; height: 450px; } .img2{ margin-left: 250px; width: 350px; height: 450px; } .img3{ margin-left: 450px; width: 350px; height: 450px; } .recent{ } #THE_GREEN_NEST { opacity: 0.805; position: absolute; left: 60px; overflow: visible; width: 159px; white-space: nowrap; line-height: 47px; margin-top: 13.5px; text-align: left; font-family: Poppins; font-style: normal; font-weight: normal; font-size: 20px; color: rgba(23,23,23,1); } #THE__NAMAZGJA__MOSQUE { opacity: 0.805; position: absolute; left: 450px; overflow: visible; width: 262px; white-space: nowrap; line-height: 47px; margin-top: 13.5px; text-align: left; font-family: Poppins; font-style: normal; font-weight: normal; font-size: 20px; color: rgba(23,23,23,1); } #EPOKA_UNIVERSITY { opacity: 0.805; position: absolute; left: 850px; overflow: visible; width: 182px; white-space: nowrap; line-height: 47px; margin-top: 13.5px; text-align: left; font-family: Poppins; font-style: normal; font-weight: normal; font-size: 20px; color: rgba(23,23,23,1); } div#Lorem_ipsum_dolor_sit_amet__co{ } .Lorem_ipsum_dolor_sit_amet__co_bc{ } .Lorem_ipsum_dolor_sit_amet__co_bd{ } #Lorem_ipsum_dolor_sit_amet__co { opacity: 0.805; position: absolute; left: 60px; top: 2450.175px; overflow: visible; width: 368.988px; height: 122.663px; line-height: 24px; margin-top: 100px; text-align: left; font-family: Open Sans; font-style: normal; font-weight: normal; font-size: 14px; color: rgba(94,94,94,1); } #Lorem_ipsum_dolor_sit_amet__co_bc { opacity: 0.805; position: absolute; left: 450px; top: 2450.175px; overflow: visible; width: 368.988px; height: 122.663px; line-height: 24px; margin-top: 100px; text-align: left; font-family: Open Sans; font-style: normal; font-weight: normal; font-size: 14px; color: rgba(94,94,94,1); } #Lorem_ipsum_dolor_sit_amet__co_bd { opacity: 0.805; position: absolute; left: 850px; top: 2450.175px; overflow: visible; width: 368.988px; height: 122.663px; line-height: 24px; margin-top: 100px; text-align: left; font-family: Open Sans; font-style: normal; font-weight: normal; font-size: 14px; color: rgba(94,94,94,1); } #PARTNERS { position: absolute; left: 899.635px; top: 3546.869px; overflow: visible; width: 92px; white-space: nowrap; line-height: 89px; margin-top: -35.5px; text-align: left; font-family: Poppins; font-style: normal; font-weight: bold; font-size: 18px; color: rgba(83,83,83,1); } div#portfolio.container-fluid.text-center.bg-grey{ margin-top: 200px } div.thumbnail1, div.thumbnail{ margin-left: 30px; margin-top: 300px } img.im1{ margin-left: 50px; } img.im2{ margin-left: 50px; } img.im3{ margin-left: 50px; } div#portfolio.container-fluid.text-center.bg-grey{ background-color: #F5F5F5; height: 150px; } .topnav1 a{ color: white; text-align: center; padding: 14px 16px; text-decoration: none; font-size: 17px; } div.topnav1{ margin-left: -350px; margin-top: 120px; } button.w3-button.w3-deep-orange{ background-color: orange; } #Ales_Construction_Ltd_began_it1 { position: absolute; left: 50px; top: 450px; overflow: hidden; width: 591.389px; height: 378.564px; line-height: 26px; margin-top: -6px; text-align: left; font-family: Poppins; font-style: normal; font-weight: normal; font-size: 14px; color: rgba(145,145,145,1); } span.ab{ margin-top: 50px; } #ABOUT_US_1 { position: absolute; left: 50px; top: 230px; overflow: visible; width: 297px; white-space: nowrap; line-height: 79px; margin-top: 70px; text-align: left; font-family: Poppins; font-style: normal; font-weight: bold; font-size: 59px; color: rgba(83,83,83,1); } img#james_sullivan_ESZRBtkQ_f8_uns1{ height: 700px; width: 500px; margin-right: 100px; margin-top: 100px; } img#james_sullivan_ESZRBtkQ_f8_uns2{ margin-left: 60px; } span.here{ margin-left: 800px; } #OUR_SERVICES__IN_THE_CONSTRUCT { position: absolute; left: 1045.625px; top: 1500px; overflow: visible; width: 349px; white-space: nowrap; line-height: 40px; margin-top: -5px; text-align: left; font-family: Poppins; font-style: normal; font-weight: bold; font-size: 30px; color: rgba(83,83,83,1); } #Ales_Construction_Ltd_began_it { position: absolute; left: 650px; top: 1550px; overflow: visible; width: 591.389px; height: 540.564px; line-height: 26px; margin-top: -6px; text-align: left; font-family: Poppins; font-style: normal; font-weight: normal; font-size: 14px; color: rgba(145,145,145,1); } #The_target_clients_of_our_comp { position: absolute; left: 650px; top: 1299.604px; overflow: visible; width: 560.389px; height: 540.564px; line-height: 26px; margin-top: -6px; text-align: left; font-family: Poppins; font-style: normal; font-weight: normal; font-size: 14px; color: rgba(145,145,145,1); } #Since_2016__Ales_Construction_ { position: absolute; left: 300px; top: 1299.604px; overflow: visible; width: 560.389px; height: 540.564px; line-height: 26px; margin-top: -6px; text-align: left; font-family: Poppins; font-style: normal; font-weight: normal; font-size: 14px; color: rgba(145,145,145,1); }
+ 
+
+ .ab2
+
+ {
+
+
+  position: absolute; left: 700px; overflow: visible; width: 297px; white-space: nowrap; line-height: 29px; margin-top:
+  50px; text-align: left; font-family: Poppins; font-style: normal; font-weight: bold; font-size: 20px; color: rgba(83,83,83,1); }
+
+
+  div.card{ background-color: #F5F5F5; } div.card-body{ height: 500px } div.do{ background-color: #F5F5F5; margin-bottom: -250px; margin-top: 50px; } div.col-sm-6{ margin-top: -70px } div#portfolio.container-fluid.text-center.bg-grey1{ background-color: ; height: 450px; margin-top: 50px; } kl#h5.part{ } 
+
+  p.card-text{ } h5.card-title{ margin-top: 80px } .cont{ background-color: ; } img#james_sullivan_ESZRBtkQ_f8_uns1{ box-shadow: 10px 10px 5px grey; } img#ames_sullivan_ESZRBtkQ_f8_uns3.trok{ } div.column{ margin-top: -100px; }
+
+
+
+
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+.bg-img {
+  /* The image used */
+  background-image: url("../photo/cover.png");
+
+  min-height: 480px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  /* Needed to position the navbar */
+  position: relative;
+}
+
+/* Position the navbar container inside the image */
+.container {
+  position: absolute;
+  margin: 20px;
+  width: auto;
+  margin-left: 800px;
+}
+
+/* The navbar */
+.topnav {
+  overflow: hidden;
+}
+
+/* Navbar links */
+.topnav a {
+  float: right;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  color: black;
+}
+
+.txt{
+	text-align: center;
+	font-weight: bold;
+	margin-top: 100px;
+	margin-left: -70px;
+}
+
+.card1{
+
+	margin-left: 550px;
+	margin-top: -200px;
+}
+
+.card2{
+	margin-left: 1000px;
+	margin-top: -210px;
+}
+
+.footer{
+  background: #152F4F;
+  color:white;
+
+  .links{
+    ul {list-style-type: none;}
+    li a{
+      color: white;
+      transition: color .2s;
+      &:hover{
+        text-decoration:none;
+        color:#4180CB;
+        }
+    }
+  }  
+  .about-company{
+    i{font-size: 25px;}
+    a{
+      color:white;
+      transition: color .2s;
+      &:hover{color:#4180CB}
+    }
+  } 
+  .location{
+    i{font-size: 18px;}
+  }
+  .copyright p{border-top:1px solid rgba(255,255,255,.1);} 
+}
+
+
+.page-footer.font-small.blue{
+	background-color: grey;
+	  height: 300px
+
+}
+
+#About_Us______Construction____ {
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+		width: 653px;
+		white-space: nowrap;
+		line-height: 39px;
+		margin-top: -11.5px;
+		text-align: center;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(74,74,74,1);
+		background-color: grey;
+	}
+
+	#Ales_Construction_Ltd_began_it {
+		position: absolute;
+		left: 50px;
+		top: 1200.604px;
+		overflow: hidden;
+		width: 591.389px;
+		height: 378.564px;
+		line-height: 26px;
+		margin-top: -6px;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(145,145,145,1);
+	}
+
+	
+
+
+
+	#ABOUT_US_ {
+		position: absolute;
+		left: 50px;
+		top: 1000.377px;
+		overflow: visible;
+		width: 297px;
+		white-space: nowrap;
+		line-height: 79px;
+		margin-top: 70px;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 59px;
+		color: rgba(83,83,83,1);
+
+	}
+
+
+
+	.card{
+		margin-top: -600px;
+	}
+
+	.card-img-top{
+				margin-top: -600px;
+
+	}
+
+	
+
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33.33%;
+  padding:5px;
+  margin-top:1050px;
+  padding-right: 30px
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.img1{
+		margin-left: 50px;
+
+	width: 350px;
+	height: 450px;
+}
+
+.img2{
+	margin-left: 250px;
+	width: 350px;
+	height: 450px;
+	 
+	
+	}
+.img3{
+	margin-left: 450px;
+	width: 350px;
+	height: 450px;
+}
+
+
+.recent{
+
+}
+
+	#THE_GREEN_NEST {
+		opacity: 0.805;
+		position: absolute;
+		left: 60px;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		line-height: 47px;
+		margin-top: 13.5px;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(23,23,23,1);
+	}
+
+
+
+		#THE__NAMAZGJA__MOSQUE {
+		opacity: 0.805;
+		position: absolute;
+		left: 450px;
+		overflow: visible;
+		width: 262px;
+		white-space: nowrap;
+		line-height: 47px;
+		margin-top: 13.5px;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(23,23,23,1);
+	}
+	#EPOKA_UNIVERSITY {
+		opacity: 0.805;
+		position: absolute;
+		left: 850px;
+		overflow: visible;
+		width: 182px;
+		white-space: nowrap;
+		line-height: 47px;
+		margin-top: 13.5px;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(23,23,23,1);
+	}
+
+
+
+	div#Lorem_ipsum_dolor_sit_amet__co{
+
+
+		
+	}
+
+
+	.Lorem_ipsum_dolor_sit_amet__co_bc{
+
+
+	}
+
+	.Lorem_ipsum_dolor_sit_amet__co_bd{
+
+	}
+
+		#Lorem_ipsum_dolor_sit_amet__co {
+		opacity: 0.805;
+		position: absolute;
+		left: 60px;
+		top: 2450.175px;
+		overflow: visible;
+		width: 368.988px;
+		height: 122.663px;
+		line-height: 24px;
+		margin-top: 100px;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(94,94,94,1);
+	}
+	#Lorem_ipsum_dolor_sit_amet__co_bc {
+		opacity: 0.805;
+		position: absolute;
+		left: 450px;
+		top: 2450.175px;
+		overflow: visible;
+		width: 368.988px;
+		height: 122.663px;
+		line-height: 24px;
+		margin-top: 100px;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(94,94,94,1);
+	}
+	#Lorem_ipsum_dolor_sit_amet__co_bd {
+		opacity: 0.805;
+		position: absolute;
+	left: 850px;
+		top: 2450.175px;
+		overflow: visible;
+		width: 368.988px;
+		height: 122.663px;
+		line-height: 24px;
+		margin-top: 100px;
+		text-align: left;
+		font-family: Open Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(94,94,94,1);
+	}
+
+		#PARTNERS {
+		position: absolute;
+		left: 899.635px;
+		top: 3546.869px;
+		overflow: visible;
+		width: 92px;
+		white-space: nowrap;
+		line-height: 89px;
+		margin-top: -35.5px;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(83,83,83,1);
+	}
+
+
+
+	div#portfolio.container-fluid.text-center.bg-grey{
+		margin-top: 200px
+	}
+
+
+div.thumbnail1{
+	margin-left: 30px
+}
+
+img.im1{
+	margin-left: 50px;
+}
+
+img.im2{
+	margin-left: 50px;
+}
+img.im3{
+	margin-left: 50px;
+}
+
+
+div#portfolio.container-fluid.text-center.bg-grey{
+
+	background-color: #F5F5F5;
+	height: 150px;
+}
+
+.topnav1 a{
+
+
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+
+
+}
+
+div.topnav1{
+	margin-left: -350px;
+	margin-top: 120px;
+}
+
+
+button.w3-button.w3-deep-orange{
+	background-color: orange;
+
+}
+
+
+
+#Ales_Construction_Ltd_began_it1 {
+		position: absolute;
+		left: -150px;
+		top: 450px;
+		overflow: hidden;
+		width: 591.389px;
+		height: 378.564px;
+		line-height: 26px;
+		margin-top: -6px;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(145,145,145,1);
+	}
+
+	span.ab{
+		margin-top: 50px;
+	}
+
+	#ABOUT_US_1 {
+		position: absolute;
+		left: 50px;
+		top: 230px;
+		overflow: visible;
+		width: 297px;
+		white-space: nowrap;
+		line-height: 79px;
+		margin-top: 70px;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 59px;
+		color: rgba(83,83,83,1);
+
+	}
+
+
+	img#james_sullivan_ESZRBtkQ_f8_uns1{
+
+		height: 700px;
+		width: 500px;
+		margin-right: 100px;
+		margin-top: 100px;
+	}
+
+
+
+	img#james_sullivan_ESZRBtkQ_f8_uns2{
+		margin-left: 60px;
+	}
+
+
+div#The_target_clients_of_our_comp{
+
+	margin-left: 300px
+}
